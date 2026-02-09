@@ -1,6 +1,6 @@
 streamlit
-opencv-python
+opencv-python-headless
 pytesseract
 pandas
-numpy
 pillow
+numpy

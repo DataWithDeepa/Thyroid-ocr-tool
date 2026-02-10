@@ -3,6 +3,9 @@
 AI-powered extraction of patient details, values, units & thyroid status.
 ## 🚀 Live Deployment  
 Open app here: [Thyroid OCR Tool on Streamlit](https://thyroid-ocr-tool-bekbmk5ebthnh35ujtcvev.streamlit.app/)
+<img width="1826" height="628" alt="image" src="https://github.com/user-attachments/assets/92376ac1-f74d-41da-8b71-ce6c717a73a8" />
+
+
 
 
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/tesseract-ocr/badge.svg)](https://scan.coverity.com/projects/tesseract-ocr)

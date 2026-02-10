@@ -1,4 +1,9 @@
 # Tesseract OCR
+# Thyroid Lab Report OCR 🩺  
+AI-powered extraction of patient details, values, units & thyroid status.
+## 🚀 Live Deployment  
+Open app here: [Thyroid OCR Tool on Streamlit](https://thyroid-ocr-tool-bekbmk5ebthnh35ujtcvev.streamlit.app/)
+
 
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/tesseract-ocr/badge.svg)](https://scan.coverity.com/projects/tesseract-ocr)
 [![CodeQL](https://github.com/tesseract-ocr/tesseract/workflows/CodeQL/badge.svg)](https://github.com/tesseract-ocr/tesseract/security/code-scanning)

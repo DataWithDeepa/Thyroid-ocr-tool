@@ -1,38 +1,4 @@
-# Python cache files - ignore these
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
-.venv/
-venv/
-env/
-.env
-
-# Temporary folders
-temp/
-temp_*
-temp_processing/
-temp_files/
-temp_images/
-temp_storage/
-temp_store/
-temp_uploaded_images/
-
-# Log files
-*.log
-
-# Other common ignores
-.DS_Store
-Thumbs.db
-*.tmp
-*.bak
-*.swp
-.vscode/
-.idea/
-
-# Project-specific (add if needed)
-output/
-output_pipeline/
-output_simple/

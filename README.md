@@ -4,6 +4,10 @@ AI-powered extraction of patient details, values, units & thyroid status.
 ## 🚀 Live Deployment  
 Open app here: [Thyroid OCR Tool on Streamlit](https://thyroid-ocr-tool-bekbmk5ebthnh35ujtcvev.streamlit.app/)
 <img width="1826" height="628" alt="image" src="https://github.com/user-attachments/assets/92376ac1-f74d-41da-8b71-ce6c717a73a8" />
+<img width="1880" height="802" alt="image" src="https://github.com/user-attachments/assets/ad29deaf-3497-4073-8c88-daff38ac3a7d" />
+<img width="1826" height="767" alt="image" src="https://github.com/user-attachments/assets/8292a649-844b-427f-9e3e-1bed8e0791f2" />
+
+
 
 
 
